@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sheehan Maitra</h1>
 <h3 align="center">CS @ Rutgers University</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sheehanmaitra&label=Profile%20views&color=0e75b6&style=flat" alt="sheehanmaitra" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sheehanmaitra" alt="sheehanmaitra" /></a> </p>
-
 - 🔭 I’m currently working on **Options Pricing Model**
 
 - 🌱 I’m currently learning **C/C++**
