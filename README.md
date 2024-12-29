@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sheehan Maitra</h1>
 <h3 align="center">CS @ Rutgers University</h3>
 
-- 🔭 I’m currently working on **Options Pricing Model**
+- 🔭 I’m currently working on **Animal Recognition Software**
 
 - 🌱 I’m currently learning **C/C++**
 
